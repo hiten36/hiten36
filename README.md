@@ -14,4 +14,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hiten36&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,aws,cpp,java,androidstudio,py,php,mysql,postgres,pug,jquery,github,django,aiheroku,vscode,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,aws,cpp,java,androidstudio,py,php,mysql,postgres,pug,jquery,github,django,ai,heroku,vscode&theme=dark)](https://skillicons.dev)
