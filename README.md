@@ -1,6 +1,6 @@
  ### 📊 Github Stats
  
-[![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=medium&logoColor=white&link=https://instagram.com/hiten_khatri)](https://instagram.com/hiten_khatri)
+[![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/hiten_khatri)](https://instagram.com/hiten_khatri)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hiten-khatri-63899b198/)]([https://www.linkedin.com/in/kevin-feng-87a174202/](https://www.linkedin.com/in/hiten-khatri-63899b198/))
 
 :school: Currently studying Computer Science at Rutgers University, NJ</br>
