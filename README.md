@@ -15,3 +15,4 @@
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,graphql,bootstrap,tailwind,materialui,aws,c,cpp,java,androidstudio,py,php,mysql,postgres,pug,jquery,github,django,ai,heroku,vscode,postman,regex&theme=dark)](https://skillicons.dev)
+ 
