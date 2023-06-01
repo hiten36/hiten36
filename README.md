@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/hiten_khatri)](https://instagram.com/hiten_khatri)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hiten-khatri-63899b198/)]([https://www.linkedin.com/in/kevin-feng-87a174202/](https://www.linkedin.com/in/hiten-khatri-63899b198/))
 
-:school: Currently persuing B.Tech in Information Technology at IGEC, Sagar</br>
+:school: B.Tech (Honours) in Information Technology from IGEC, Sagar</br>
 :computer: I love to develop</br>
 :world_map: I like to travel and explore</br>
 :mailbox: How to reach me: <a href="mailto:hitenkhatri14@gmail.com">hitenkhatri14@gmail.com</a>
